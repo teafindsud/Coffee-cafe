@@ -24,7 +24,7 @@
     "allowSyntheticDefaultImports": true
   },
   "include": [
-    "src"
+    "Coffee-cafe/src"
   ],
   "references": [
     {
